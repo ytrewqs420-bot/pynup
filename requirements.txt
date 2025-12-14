@@ -1,1 +1,1 @@
-flask pymupdf
+flask pymupdf gunicorn
